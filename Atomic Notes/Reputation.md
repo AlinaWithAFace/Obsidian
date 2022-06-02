@@ -2,7 +2,7 @@
 
 [[What]]?
 ---
-[[Imagine]] that [[someone]] is [[talk]]ing to [[You™]]:
+[[Imagine]] that [[someone]] is [[talk]]ing to [[You™.]]:
 
 > "Your reputation precedes you."
 

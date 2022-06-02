@@ -1,1 +1,1 @@
-[[I™]] [[know]] [[You™]] [[Because]] [[I Chose You]].
+[[I™]] [[know]] [[You™.]] [[Because]] [[I Chose You]].

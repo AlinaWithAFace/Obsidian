@@ -10,5 +10,5 @@
 [[Human]]s can [[Learn]] [[The Hard Way™]].
 [[Human]]s can [[Learn]] [[The Painful Way™]].
 
-[[You™]] are (presumably) a [[Human]].
+[[You™.]] are (presumably) a [[Human]].
 [[GG]], [[EZ]]

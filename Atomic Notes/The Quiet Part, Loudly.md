@@ -1,4 +1,4 @@
-[[Yelling]] [[About]] [[Stuff]] [[That]] [[Hurt]][[s]] [[You™]].
+[[Yelling]] [[About]] [[Stuff]] [[That]] [[Hurt]][[s]] [[You™.]].
 
 [[The Implication™]] [[of]] [[Un]][[Stated Intent]] [[Aloud]].
 

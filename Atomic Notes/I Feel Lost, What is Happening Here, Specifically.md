@@ -54,7 +54,7 @@ It's not always going to.
 
 Sorry.
 
-I'm [[Human]], same as [[You™]].
+I'm [[Human]], same as [[You™.]].
 
 I can't see everything.
 
@@ -78,7 +78,7 @@ I tend to do this a lot mentally as a way to trace the meaning of words. [Etymol
 
 I find chasing threads through language to be a *fascinating* and *fun* [[Mechanism]] that [[Drive]]s me, not only in general, but through life itself.
 
-I want this idea, all of these ideas, to do the same for [[You™]].
+I want this idea, all of these ideas, to do the same for [[You™.]].
 
 What else do you want exactly...?
 ---
@@ -104,7 +104,7 @@ No matter the [[Products]], your [[Attention, Energy]] exactly what I wanted!!
 
 In conclusion...
 ---
-If I have [[You™]]r [[Attention, Energy]], we're doing it!!
+If I have [[You™.]]r [[Attention, Energy]], we're doing it!!
 
 "It" being, doing [[Logic, Philosophy of Systems]] together!!
 

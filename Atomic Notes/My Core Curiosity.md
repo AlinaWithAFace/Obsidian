@@ -12,7 +12,7 @@ Related
 
 [[What]], but like, be a human for a second????
 ---
-Finding [[You™]]r [[Everything™]] is finding [[You™]]r meaning, [[You™]]r [[Reason.]] for [[Being]].
+Finding [[You™.]]r [[Everything™]] is finding [[You™.]]r meaning, [[You™.]]r [[Reason.]] for [[Being]].
 
 **[[Finding Your Everything™ is an Emergent Behavior]]**
 
@@ -34,7 +34,7 @@ This is my attempt at doing so [[Through]] [[System Design]].
 
 [[Learning]] is [[Induceable]].
 
-I want to [[Induce]] [[Learning]] in [[You™]] [[Systematically]].
+I want to [[Induce]] [[Learning]] in [[You™.]] [[Systematically]].
 
 ## [[To Be Clear]],
 ### It's not always going to [[Work]].

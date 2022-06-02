@@ -1,1 +1,1 @@
-Finding [[You™]]r [[Everything™]] *is an [[Emergent Behavior]]*.
+Finding [[You™.]]r [[Everything™]] *is an [[Emergent Behavior]]*.

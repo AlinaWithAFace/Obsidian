@@ -18,7 +18,7 @@ Without a [[Call]], there will never be a [[Responce]].
 
 [[Call and Responce is Culture]].
 
-If [[You™]] [[Find]] [[Yourself]] [[Asking]] [[What]] about my [[Design]], [[Contact Me]].
+If [[You™.]] [[Find]] [[Yourself]] [[Asking]] [[What]] about my [[Design]], [[Contact Me]].
 
 This is part of what makes [[Converastion]] so [[Engaging]].
 
@@ -28,4 +28,4 @@ Without a [[Call]], there will never be a [[Responce]].
 
 [[Call and Responce is Culture]].
 
-If [[You™]] [[Find]] [[Yourself]] [[Asking]] [[What]] about my [[Design]], [[Contact Me]].
+If [[You™.]] [[Find]] [[Yourself]] [[Asking]] [[What]] about my [[Design]], [[Contact Me]].

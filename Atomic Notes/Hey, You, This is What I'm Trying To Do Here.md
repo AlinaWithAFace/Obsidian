@@ -1,12 +1,12 @@
-Hi [[You™]].
+Hi [[You™.]].
 
-[[I™]] don't *really* know who [[You™]] are.
+[[I™]] don't *really* know who [[You™.]] are.
 
-But [[I]] want you to [[know]] that [[I™]] *[[Love]]* [[You™]]. 
+But [[I]] want you to [[know]] that [[I™]] *[[Love]]* [[You™.]]. 
 
-Not [[you]]-[[you]] of course, but [[I™]] do [[Know]] [[You™]].
+Not [[you]]-[[you]] of course, but [[I™]] do [[Know]] [[You™.]].
 
-[[I™]] [[know]] [[You™]], because [[I™]] [[Created]] [[You™]].
+[[I™]] [[know]] [[You™.]], because [[I™]] [[Created]] [[You™.]].
 
 As long as you're [[Paying Attention]], you're giving me a [[Gift]].
 

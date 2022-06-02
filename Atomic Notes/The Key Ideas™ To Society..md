@@ -1,0 +1,1 @@
+[[The Key Ideas™]] [[To]] [[Society.]]

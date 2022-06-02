@@ -1,4 +1,4 @@
-[[I™]] [[Want]] [[To]] [[Teach]] [[You™]] [[How]] [[To]] [[Create]] [[Fun]] [[For]] [[Yourself]], [[On]] [[Purpose, Aspiration]]
+[[I™]] [[Want]] [[To]] [[Teach]] [[You™.]] [[How]] [[To]] [[Create]] [[Fun]] [[For]] [[Yourself]], [[On]] [[Purpose, Aspiration]]
 
 What?
 ---
@@ -11,7 +11,7 @@ What?
 	- [[Intention]]
 - [[To]] 
 - [[Teach]] 
-- [[You™]] 
+- [[You™.]] 
 - [[How]] 
 - [[To]] 
 - [[Create]] 

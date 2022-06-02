@@ -1,1 +1,1 @@
-[[I™]] [[Want]] [[To]] [[Teach]] [[You™]] [[How]] [[To]] [[Induce]] [[Fun]]
+[[I™]] [[Want]] [[To]] [[Teach]] [[You™.]] [[How]] [[To]] [[Induce]] [[Fun]]

@@ -41,7 +41,7 @@ This is [[The Key Idea™]] to [[Teaching]] [[Game Design]].
 ### [[Game Designers Design Personality Systems]]
 [[EZ]]
 
-If this [[Thought]] has [[Create]]d [[Reward, Value, Utility]] in [[You™]]r [[Life]]. *Please* [[Provide]] [[Reward, Value, Utility]] for her.
+If this [[Thought]] has [[Create]]d [[Reward, Value, Utility]] in [[You™.]]r [[Life]]. *Please* [[Provide]] [[Reward, Value, Utility]] for her.
 
 She deserves all of it.
 

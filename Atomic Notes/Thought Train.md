@@ -13,7 +13,7 @@
 
 [[What]] [[Now]]?
 ---
-[[You™]] [[Should]] [[Create]] [[Thought Train]]s.
+[[You™.]] [[Should]] [[Create]] [[Thought Train]]s.
 
 [[How]] [[Do]] [[I™]] [[Create]] [[Thought Train]]s?
 ---
@@ -22,7 +22,7 @@
 
 1. Saying you're going to do so, to yourself or others.
 2. Stepping through every piece of your thinking.
-3. [[Externalize]]ing [[You™]]r [[Thinking]].
+3. [[Externalize]]ing [[You™.]]r [[Thinking]].
 
 This is not only one of the most intrinsically [[Reward, Value, Utility]]able things that you can do for yourself, but also other people.
 

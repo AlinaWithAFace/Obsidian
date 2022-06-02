@@ -2,7 +2,7 @@
 Hi [[Academia™]],
 
 Look, You don't know this, because I haven't told you before, but,
-# [[You™]] and [[I™]] have SO MUCH [[Beef]].
+# [[You™.]] and [[I™]] have SO MUCH [[Beef]].
 I see you.
 
 I see you DEEPLY.

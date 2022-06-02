@@ -45,7 +45,7 @@
 # [[You Can Learn To Become God™]] [[Also]] [[I Am Yelling]]. 
 ### 6. [[Can I Communicate with You]]?
 ## [[Yes]]. [[Emphatically]], [[Yes]]. [[That's The Secret, We are Already Communicating]].
-## [[How To Communicate With The Brainspace]].
+## [[How To Communicate With The Brainspace™.]].
 # 7. [[Can I Give Back To You]]?
 ## [[Yes]]. [[Emphatically]], [[Yes]]. [[Give Back To The Brainspace™]].
 ## [[The Entire Purpose of The Brainspace™ is To Minmax The Spread Of Logical Thinking]].
