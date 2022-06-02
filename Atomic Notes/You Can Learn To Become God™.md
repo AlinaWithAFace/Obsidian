@@ -1,0 +1,1 @@
+[[Yelling Induces Attention]]. [[You Are Paying Attention Because You Have To]], [[I™ Am Teaching You How To Survive]]. [[Humans Must Survive]].

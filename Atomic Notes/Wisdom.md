@@ -1,0 +1,1 @@
+[[Knowledge]] with [[Specific]] [[Intention]] and a [[Relevant]] [[Application]].

@@ -1,0 +1,7 @@
+[[Playful System]]
+[[Playful Systems Require Exits]]
+[[Playful Systems Are Inviting To All Participants]]
+[[Playful Systems Require Sinks for Players' Excess Resources]]
+[[Playful Systems are Dependant on Player Feedback]]
+[[Playful Systems Separate Bad Actors]]
+[[Playful Systems Invite Exiting Gracefully]]

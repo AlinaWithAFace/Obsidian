@@ -1,0 +1,7 @@
+Often, the educational system will boast about its lofty goals by saying things like "we teach people not what to think, but how to think", and so on and so forth. But then, in the same breath, they never really have a course requirement titled "critical thinking". I suspect the assertion is that they just expect your exposure to a wide variety of subjects to magically implicitly teach you critical thinking skills without directly addressing it. And maybe that's correct and does happen for a lot of people!! I don't know!!
+
+But maybe it doesn't happen for everyone! I think it's worth talking about in as explicit and straightforward terms as possible. Being able to think critically in a number of ways will greatly impact your ability to communicate, not only with others, but to yourself. Having the power to dissect, analyze, and reframe not only the stories that other people tell you, but the stories that you tell yourself, is incredibly valuable.
+
+Of course, there are a lot of fascets to this. Everything in every medium is a potential tool that you can use to think about the world a little bit differently. Everything is a lense that you can look through the world with, that you can take and analyze information through. There are certainly some meta-level skills within critical thinking that are interesting to cover directly, but in a sense the list will never be truly exhaustive, since it's all informed by the entirety of the collective human experience.
+
+![[John Green on The Test]]

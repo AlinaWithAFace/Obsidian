@@ -1,0 +1,1 @@
+[[Fun]] [[is]] [[fun]] [[for]] [[A Reason.]]

@@ -1,0 +1,7 @@
+Why should you make this? What's it going to add to the player experience? Why is a particular thing interesting to include? Why is it worth your (and everyone else's) time to create? Creating things takes a lot of people's time and energy and resources, and if you have a really solid reason for why the thing you're thinking about making is interesting or adds something, it's easy to get other people on board with making it with and/or for you. [[Presenting reasons, even simple ones, makes people more likely to go along with you]]
+
+If you're thinking about making a game, do you have a good reason to make it specifically a game? Creating games (good ones anyway) is a LOT of work, people tend to underestimate how much it really takes.
+
+If you want to tell a compelling story, is there a better medium for that story? If you want to teach someone something, is there a better way to teach them? If you want to show them something beautiful, do you *need* to make a game in order to do that?
+
+Failing to consider other mediums for their strengths 'bEcAuSe gAmEs aRe CoOl' is a great way to shoot yourself in the foot before you've even gotten started. Not asking these questions are why people tend to shit on things like educational games.

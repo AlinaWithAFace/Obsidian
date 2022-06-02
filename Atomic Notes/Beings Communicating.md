@@ -1,0 +1,1 @@
+[[Variable]] [[Being]]s [[Performing]] [[Communicate]]

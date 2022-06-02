@@ -1,0 +1,1 @@
+If you want to start a video game, the more that you can do to prototype it, the better.

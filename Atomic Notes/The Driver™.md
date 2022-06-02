@@ -1,0 +1,3 @@
+[[Thought]].
+[[Question]].
+[[Curiosity]].

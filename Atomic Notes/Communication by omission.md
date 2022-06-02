@@ -1,0 +1,1 @@
+Have you ever been left on read? Or worse, left someone else on read? It kinda sucks. The vacuum created by silence can itself communicate. Silence speaks volumes.

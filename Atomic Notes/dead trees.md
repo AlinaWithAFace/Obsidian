@@ -1,0 +1,1 @@
+Means paper. See [Paper, Wikipedia](https://simple.wikipedia.org/wiki/Paper).

@@ -1,0 +1,1 @@
+[[Teacher]] [[Ah, ha]] [[Realization]]

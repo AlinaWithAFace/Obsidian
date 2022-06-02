@@ -1,0 +1,5 @@
+[[Information]] [[Accumulation]]
+
+Related
+---
+[[Wisdom]]

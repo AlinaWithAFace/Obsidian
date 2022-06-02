@@ -1,0 +1,1 @@
+Eliminate your political enemies in Coupricide, a game of bluffing, unlikely alliances, and political extremism.

@@ -1,0 +1,7 @@
+This can refer to things like [law](https://en.wikipedia.org/wiki/Law), but I think it's helpful to abstract it into a more general idea of how society *could* be run. Law is perhaps the most bedrock implementation of public policy, but the way we interact with each other is constantly shifting as culture and the public zeitgeist shifts. Informal public policy and social norms are still, in a way, public policies, but the key difference between them and the law is that they're not enforced by a governing body.
+
+And that's a good thing! We shouldn't be dependant on any single other being in order to invent [[Forcing Function]]s and enforce them ourselves!
+
+Enforcement of public policies is a tough spot. We want public policies to be effective so that they actually work. A [[Forcing Function]] without any sort of force behind it is worthless. Enforcement of public policy might best be a gradient that makes it easy to quickly recover from mistakes. People tend to feel bad when they're trapped, and stop wanting to play the game, which, in the context of life, means killing themselves.
+
+Damn, I guess we're doing Real Philosophy™ now boys. strap in. [[Thinking with Games, The Dissertation]].

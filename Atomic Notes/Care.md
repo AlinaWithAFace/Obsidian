@@ -1,0 +1,6 @@
+[[Emotion.]]
+[[Signal.]]
+[[Useful.]]
+[[Exploitable.]]
+[[Systemic.]]
+[[Adjacent to]] [[God™.]]

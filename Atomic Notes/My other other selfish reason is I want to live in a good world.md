@@ -1,0 +1,1 @@
+It feels good to live in a good place. It feels good to interact with a well-designed system!! Giving people the power of knowledge, particularly the power of [[systems thinking]], can unlock things and tools for people to do the work of making life suck less. Which, yano, I'd generally consider a good thing.

@@ -1,0 +1,2 @@
+[[Thing]].
+[[Producer]] of [[Value]].

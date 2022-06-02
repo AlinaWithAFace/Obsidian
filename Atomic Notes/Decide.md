@@ -1,0 +1,5 @@
+Resolute.
+
+Willful.
+
+[[Intention]] [[Driven]].

@@ -1,0 +1,1 @@
+The world is a cesspool of political unrest, with tribalism and ideologies dominating the world’s discourse over rational discussion and thought. 

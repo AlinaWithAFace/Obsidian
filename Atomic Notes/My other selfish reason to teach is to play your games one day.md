@@ -1,0 +1,5 @@
+Look y'all, in case it needed to be said, I'm a pretty big Gamer™️. I love games, just, in general. I will get head over heels, all goo goo ga ga eyes, for all sorts of games. I don't discriminate!! I have a multitude of love interests! But with such refined taste also comes a distaste for the trite, the overdone, the common, the tired.
+
+I want the wired, heck I want the inspired!! I want to make the inspired myself, and I want you to make the inspired so I can play it!!
+
+[[Finite beings]]. Sad!! It's physically impossible for me to make all of the games I want to make. There are too many!! I cannot!! QED the next best thing I can do is teach you how to make games, not just in general, but to make them *well*. I want you to go out there, make some amazing, award winning, deeply inspiring magic, and then I want you to send it to me in like 10 years when you've gone out and spread your wings so I can play it and admire how amazing you are.

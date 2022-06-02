@@ -1,0 +1,3 @@
+- [[Rest]].
+- [[Final]]ity.
+- A subtype of [[Death]].

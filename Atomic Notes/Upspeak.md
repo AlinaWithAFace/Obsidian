@@ -1,0 +1,1 @@
+Upspeak is part of [[Tone]]. Upspeak is a tool for communicating ambiguity, and a verbal version of [[Hedging]]. It suffers from the same drawbacks as written and linguistic [[Hedging]]. People socialized as women are occasionally criticized for using upspeak. [[It's more productive to critique Gendered Socialization than gender and or sex directly]].

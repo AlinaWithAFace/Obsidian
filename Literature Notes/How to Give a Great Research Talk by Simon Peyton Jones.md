@@ -1,0 +1,105 @@
+[How to Give a Great Research Talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
+---
+[How to Give a Great Research Talk](https://youtu.be/sT_-owjKIbA)
+- Research is communication
+- how often have you said "I'm glad i went to that talk"? Use those for inspiration to give better talks
+- standards for talks are pretty low, there's not a lot you need to do to be fabulous
+- talks are pretty great, you take people's precious time, that's a commodity
+- what is the purpose of a talk?
+	- it's NOT
+		- to impress people
+		- to tell people everything you know about the thing
+		- to talk technical details
+	- it IS
+		- give the audience an intuitive feel for your idea
+		- to make them foam at the mouth with eagerness to read your work
+		- to engage, excite, provoke them
+		- to make them glad they spent the time
+- the audience you would want is not the audience you have
+	- an ideal audience will have
+		- read all of your earlier work
+		- thoroughly understand all of the relevant things you're working on
+		- all about the new things you're working on
+		- woke up on the right side of the bed
+	- but uh this doesn't happen ever
+		- no one knows who you are
+		- no one know what you're working on
+		- are ready for a nap
+- what to put in
+	- your motivation
+	- the idea
+	- that's it there is no 3
+- kick off fast or you'll have people drop off/stop caring
+- why should i care about you and this talk?
+- what's the problem
+- why is it a cool problem?
+- does this talk do anything interesting or worthwhile?
+- be hyper-specific about the one [[key idea]] you're trying to communicate
+- everything irrelevant to this idea needs to go
+- you can maybe use a video here to help communicate this idea
+- make something dynamic, be enthusiastic
+- if you as a viewer can't articulate the [[key idea]] of a talk, the speaker has failed
+- inject them with a thought germ, that's the joke
+- avoid the shallow, chase the technical meat, it's a technical talk, go deep
+- maybe do a short overview of the topic, but afterwards the depth should matter, it's okay to not tell them everything
+- get technical! that's the joke!
+- examples examples examples
+- if you have little time, omit general info, keep examples
+- examples to
+	- show the motivation
+	- convey intuition
+	- illustrate it happening
+	- show extremes
+	- highlight shortcomings
+- don't get hyper technical, like including figures and formulas, it's a bit too much and might make people feel overwhelmed, there's a balance between the depth and overwhelming people
+- getting specific examples after showing a big technical idea can be helpful to give the big generalization some context
+- what to leave out
+	- explicit outlines
+		- no one cares
+		- who knows what those terms even mean what we just got here no stop
+	- signposts are cool though, good for questions and pacing
+	- __READING YOUR SLIDES THIS IS ABSOLUTELY BANNED__
+	- overlap is fine, but word for word is fucking awful and everyone knows it
+	- honestly reading your talk altogether kind of sucks, it can be pretty hard though but helps a lot
+	- related work
+		- also awful, no one knows what you're talking about here, and worse it's not about to the thing you're trying to tell them about
+		- you need to know what it is though, the knowledge that would be in related work might be referenced in questions and should be in your big ole brain
+		- the idea sequence is the part that matters related work wise
+- rip your heart out of your chest and show it to people
+- this is the thing i care about and why
+- when it does come to technical things, just say it's in the paper, yes you bled on it, but the paper is for the details
+- Be! Enthusiastic!! Give a damn!!
+- move!
+- standard fear of speaking things
+	- have a script in case of FEAR
+	- don't apologize you're in a group
+	- humor is ok if you're uh good at it
+	- slides are good as backup if you really have frozen
+	- silence is in fact okay, pausing is okay
+	- beats uhms and ahs
+	- face the audience not the screen
+	- lazer pointers are mixed blessings
+	- identify a __nodder__, speak at that person, psych yourself up using this other human
+	- you can almost use them as a baraometer for the group's understanding
+- watch for questions as you go
+- questions are not a bad thing
+- they're pretty great ways to be with your audience
+- specifically encourage them, pause for them to make space
+- because of this you might need to skip some of the ending bits, this is okay,
+- if you get trolls, push it off to a 1-on-1 at the end of the talk
+- same thing with hyper-technical things, anything that's too lengthy to really cover or runs your train of thought away
+- what if most of your audience is lost?
+- depends on the context
+- if its a seminar in a small group, stop and whiteboard it perhaps
+- building escape routes in the case of people getting lost
+- don't make people feel like fools for asking questions
+- repeat the questions when you're asked what it is to verify you've got it right from them and let them correct your understanding of the question
+- if you have no idea, be honest that you have no idea, say it's neat and prompt them to come to you after the talk
+- do a dry run to check for length, slides alone are not a good way to judge length per say
+- be a good audience member
+- be the guy who asks the questions, be ballsy
+- ask questions __early__
+- stare into the presenter's eyes and/or soul
+- animations are pretty obnoxious, use __sparingly__
+- as is individually revealing points
+- people stop listening when your time is up, don't waste their time, don't ask for more time, it's hard to say no to people begging for time

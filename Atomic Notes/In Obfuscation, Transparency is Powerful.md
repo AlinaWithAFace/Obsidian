@@ -1,0 +1,1 @@
+We live in an extremely obfuscated world. We can't full see all of the systems around us by default. Some of them are designed to be that way on purpose, because it benefits the people making them, particularly around currency.

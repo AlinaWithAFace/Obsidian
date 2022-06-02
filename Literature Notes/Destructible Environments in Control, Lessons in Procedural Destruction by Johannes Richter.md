@@ -1,0 +1,58 @@
+[Destructible Environments in Control: Lessons in Procedural Destruction](https://www.youtube.com/watch?v=kODJsQGXanU)
+---
+- principle of granularity
+	- represent every level of natural detail in every effect you create
+	- environment -> objects -> chunks -> debris -> dust
+	- static environment
+	- breakable objects
+	- breakable / interactible props
+- procedural approach
+- pull materials from models
+- finite set of rules
+	- eg grass: spawn leaves
+	- concrete: break into children
+	- concrete: spawn dust
+- why procedural?
+	- consistent fast turnaround
+	- predictable behavior with defined metrics
+	- hundreds of assets and variations
+	- small team (1-3)
+	- scalability
+- material driven behavior
+- geometry layer
+	- unbroken
+	- level A coarse breakup, no decals
+	- level B detail breakup, edge/detail decals
+	- level C higher detail breakup only some shapes
+- simulation entities
+	- rigid bodies
+	- chunks with bonds
+	- joints
+- RBs initialized at runtime, dynamically breakable
+- joints determined by hierarchy
+	- internally connected between chunk pieces
+	- breaking still allows connections between pieces
+- simulation
+	- data and hierarchy handling
+	- breaking logic
+	- particle spawning
+	- physx
+		- rb simulation
+		- constraints
+- destruction tool chain
+	- prop/environment geometry -> model prep -> auto-destruction tool -> potentially patching physics/metadata -> engine
+- in engine it's a hierarchy of nodes
+- optimization
+	- max 200 rigidbodies on screen at any given time
+	- collision delay on big events
+		- eg explosion parts hitting each other
+	- sleeping rigid bodies with high threshold
+		- physx stabilization to get to sleep quicker
+		- helps objects stack in game well
+- everything is systemic and event driven
+	- bullet impacts
+	- bond breaking
+	- rigid body despawning
+- particle sims
+	- standard particle sim
+	- optional SDF collision

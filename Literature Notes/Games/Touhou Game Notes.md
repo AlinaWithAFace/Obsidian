@@ -1,0 +1,8 @@
+- http://www.gensokyo.org/
+- http://tohosort.comoj.com/
+- https://docs.google.com/spreadsheet/ccc?key=0AtCOLbpf61vydG5qaDhEM1BDVzZaMWVBU2lWeXlqd2c&hl=en[[gid]]=0
+- http://touhouwiki.net/
+- http://en.touhouwiki.net/wiki/Touhou_Wiki
+- http://www.cracked.com/funny-1750-touhou/
+- http://www.pixiv.net/member.php?id=743845
+- http://gensoukyou.1000.tv/

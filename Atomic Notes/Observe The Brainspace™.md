@@ -1,0 +1,1 @@
+[[PONDER]] [[THE]] [[ORB]].

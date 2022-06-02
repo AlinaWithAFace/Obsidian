@@ -1,0 +1,5 @@
+[[Specific.]]
+
+[[Space.]]
+[[Time.]]
+[[Vacuum.]]

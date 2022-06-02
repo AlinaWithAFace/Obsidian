@@ -1,0 +1,5 @@
+[[Meme]]
+[[Sharable Axiom.]]
+[[Useful.]]
+[[Exploitable.]]
+[[Adjacent]] [[To]] [[Logic.]]

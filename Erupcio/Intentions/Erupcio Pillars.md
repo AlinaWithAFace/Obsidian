@@ -1,0 +1,1 @@
+My game [[Erupcio]] has [[Pillars]] to help guide its development. See [[Pillars are the thesis statements of game design]].

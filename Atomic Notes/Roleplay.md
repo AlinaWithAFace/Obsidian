@@ -1,0 +1,1 @@
+When [[The Player]] consciously decides to take on a [[Role]].

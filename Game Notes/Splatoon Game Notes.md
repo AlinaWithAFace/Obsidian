@@ -1,0 +1,4 @@
+- [Guide: Save Scumming (Infinite Rerolls)
+- Google Drive]([https://docs.google.com/document/d/19v--kbeoEhnZlS6TB2YOiey6e0nldnSgmd4bD0_yGUI/edit](https://docs.google.com/document/d/19v--kbeoEhnZlS6TB2YOiey6e0nldnSgmd4bD0_yGUI/edit))
+- http://downy.ink/gear/index.html
+- https://youtu.be/fZ2RMll5Ptg

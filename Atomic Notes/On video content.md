@@ -1,0 +1,3 @@
+Video content is easily-digestible, but perhaps difficult to index or rediscover. I'm simultaneously fascinated and terrified by platforms like TikTok, particularly with some of the more educational angles on the platform. Some researchers go about making tiktoks of and for their work as a way to reach a wider audience with it, as a way to [[meet people where they are]]. Youtube has this trend of moving towards video essays, but there's also an increase in short form content across many platforms in the form of short videos, stories, snaps, little videos, meant to be lower effort than a "main" youtube video might be.
+
+Shorts are almost like the index cards of video or imagery, they can hold a small single idea to be digested, and do it well in a visually compelling way.

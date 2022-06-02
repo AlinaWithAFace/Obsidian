@@ -1,0 +1,3 @@
+[[Erupcio Mechanisms, Mechanics Index]]
+
+Players use lava tokens to flow lava over the landscape, capturing the tile below for points. The lava Flow begins just under the volcano. Lava tokens must connect to an adjacent lava flow. Players spend their pressure tokens to travel exactly a number of steps from the existing lava flow. Lava tokens may not overlap. All lava tokens obtained at the beginning of a turn must be played by the end of the turn.

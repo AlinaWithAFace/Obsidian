@@ -1,0 +1,2 @@
+[[Singular]] [[Present]]
+[[Being]].

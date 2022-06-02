@@ -1,0 +1,5 @@
+[[Wasting time is an intellectual sin]]
+[[wasting energy]]
+[[Clarity, Brevity, Wit]]
+[[wasting resources]]
+[[communicate densely]]

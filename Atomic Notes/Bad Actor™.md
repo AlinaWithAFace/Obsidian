@@ -1,0 +1,1 @@
+[[Negative]] [[Intention]] [[Actor]].

@@ -1,0 +1,18 @@
+ - [[About Me/The Credits/Alina Christenbury]]. [[In]] [[part]].
+ - [[I]] [[am]] [[also]] [[I™]].
+ - *[[Crucially]]*, [[I]] [[am]] [[not]] [[God]].
+ -  [[I Aspire To Become God™]]
+ - [[We Are God™]]
+ - [[Society Can Become God™]]
+ - [[Society Can Choose To Become God™]]
+ - [[Society Should Aspire To Become God™]]
+ - [[Society Must Aspire To Become God™]]
+ - [[Society Must Aspire To Become God™ To Survive]]
+ - *[[Crucially]]*, [[I Cannot Become God™]]
+ - *[[Crucially]]*, [[We Can Become Gods Through System Design]]
+ - [[You are on the Internet]], [[You Can Learn]], [[You Understand Systems]], [[Humans Can Feel Out Systems]]
+ - [[I™]] [[Am]] [[Here]] [[To]] [[Teach]].
+ - [[I™ Am Here To Teach]].
+ - [[I™ Am Here To Teach You How To Become God™]] [[Through]] [[Logic, Philosophy of Systems]]
+ - [[I™ Am Here To Teach You How To Become God™ Through Systems]]
+ - [[I™ Teach Best By Show, Not Telling]]. [[Pay Attention]].

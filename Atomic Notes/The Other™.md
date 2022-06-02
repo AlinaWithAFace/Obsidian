@@ -1,0 +1,1 @@
+People who are not like you. Typically used in faulty arguments through [[Logical Fallacies, Cognitive Biases]].

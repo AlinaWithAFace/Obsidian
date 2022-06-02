@@ -1,0 +1,1 @@
+I’ll do my best to provide a lot of material up front so you can kind of go at your own pace. I’ll make the whole curriculum available from the start of the semester, to give you really clear guidance on what the expectations will be as we progress through the course.

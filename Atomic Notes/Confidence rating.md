@@ -1,0 +1,1 @@
+A way to convey uncertainty. Typically 0% is maximum uncertainty and 100% is maximum certainty. It's super useful in applications with AI to help systems convey their "feelings" about their decisions as a quick vibe check, but I also find it useful and fun to use in conversation. It's my quirky way of precisely hedging exactly in the amount that I want to.

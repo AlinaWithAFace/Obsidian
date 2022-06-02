@@ -1,0 +1,1 @@
+Underwater societiesare a whole thing, the only big examples are Atlantis and Rapture, maybe we could take it in a solarpunk direction?

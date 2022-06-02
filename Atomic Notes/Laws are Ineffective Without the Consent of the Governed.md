@@ -1,0 +1,5 @@
+Without the consent of the governed, all laws in the form of [[Axiom]] are meaningless. If people do not wish to enter the [[Magic Circle]], if they don't want to play the game, if the systems you're building your society on top of are suffocating them, desperation will drive them to act out in ways so that they can be heard. See [[The Joker™]]. This includes things like revolting, violence, threats, striking, making art, anything and everything that they can do to communicate the problems in the [[Forcing Function]]s they are experiencing in a *desperate* attempt to call attention to them.
+
+Now, if you're a [[system designer]], People throwing wrenches within your system is a bad thing, particularly if you benefit from a functioning system, yes?
+
+If you are not listening to the people who are telling you your system is broken, *you will blind yourself to problems as they are happening*. Yes, it can be personally painful, but if you have any investment in the system functioning correctly, you **MUST** be willing to [[Socko™ is good]].

@@ -1,0 +1,1 @@
+[[Clarity, Brevity, Wit]]-[[ful]]

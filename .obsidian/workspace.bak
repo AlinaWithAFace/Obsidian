@@ -1,0 +1,84 @@
+{
+  "main": {
+    "id": "4d8cbd0fda164b0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "518aa37d45b32a07",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "__Scratch/2020-05-25.md",
+            "mode": "preview",
+            "backlinks": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c44a888f489d426",
+        "id": "125b582678f32213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ac9237b7d29783",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+            "id": "c44727f3f557d82e",
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            "id": "53e56fdbcbe5de76",
+              "type": "starred",
+            "id": "aa8cfdf0c7186286",
+              "type": "calendar",
+        ]
+    "direction": "horizontal",
+    "width": 466
+  "right": {
+    "id": "f0b7bfa3d4ecb33e",
+        "id": "d4c7623272040023",
+            "id": "5aa46f5ab2217e4f",
+              "type": "backlink",
+                "file": "__Scratch/2020-05-25.md",
+                "collapseAll": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+            "id": "40fb86c0eca1dde7",
+              "type": "outgoing-link",
+                "linksCollapsed": false,
+            "id": "32c196128215d60e",
+              "type": "outline",
+                "file": "__Scratch/2020-05-25.md"
+    "width": 300,
+    "collapsed": true
+  "active": "518aa37d45b32a07",
+  "lastOpenFiles": [
+    "__Scratch/2020-05-25.md",
+    "__Scratch/2022-04-28.md",
+    "__Scratch/A Smattering of Squad Ideas.md",
+    "__Scratch/2020-07-26.md",
+    "__Scratch/2020-07-09.md",
+    "__Scratch/2020-07-10.md",
+    "__Scratch/2020-07-23.md",
+    "__Scratch/2020-08-08.md",
+    "__Scratch/2020-08-25.md",
+    "__Scratch/2020-08-28.md"
+  ]
+}

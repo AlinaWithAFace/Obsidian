@@ -1,0 +1,1 @@
+[The Fool, Tarot, Wikipedia](https://en.wikipedia.org/wiki/The_Fool_(Tarot_card))

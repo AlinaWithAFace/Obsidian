@@ -1,0 +1,4 @@
+Irrelevant Anomaly
+Impromptu Acronym
+Parallel intersection
+Existential Thread

@@ -1,0 +1,1 @@
+[[Intention]] in [[Hoard]]ing [[Accolade]]s without [[Effort]].

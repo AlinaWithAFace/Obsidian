@@ -1,0 +1,37 @@
+I have approximately 80 bajillion project ideas at any given time. It's a fucking nightmare. I guess this is the con of uh being alive too long and thinking too hard. Here's an incomplete index, please god steal as many as you want I don't care I *just* want them out of my head. (See [[Why I Write]]).
+
+I write my weird ideas down partially to avoid chasing ideas that are not very good ideas to actually do, I guess as a way to intellectually test-ride what making the thing might actually look like. Just because they are on this list does not immediately make them good ideas!!!
+
+Also it would be very [[cash money]] of you to suspend your value judgements of me as a person when you're poking through these. I'm just a brain with legs, sometimes it runs really fast and comes up with crap, and I don't neccessarily think crap ideas are inherantly a negative thing. (See [[propagating bad ideas is a bad thing]])
+
+- [[Let's make a game where you hunt ghosts in a spooky mansion]]
+- [[Let's make a game about gurilla gardening]]
+- [[Let's Make learning to see in XR]]
+- [[Let's make a meal planning game]]
+- [[Let's make a game where we cracked immortality, but now there are riots]]
+- [[Let's make a game where rings are used as a symbol of identity]]
+- [[Let's make a game about my siblings]]
+- [[Let's make a climate crisis action simulator]]
+- [[Let's make a horror game about ants]]
+- [[Let's make a game where gender is dead]]
+- [[Let's make a solarpunk underwater city game]]
+- [[Let's make a ghost simulator VR game]]
+- [[Let's make an RPG but the classes are business roles]]
+- [[Let's make a game about relationships]]
+- [[Let's make a game where Superiority Complex is a military agency]]
+- [[Let's make a tiltbrush painting to react to a heartbeat]]
+- [[Let's make a game about my grandpa]]
+- [[Let's make a game about how capitalism is bad]]
+- [[Let's make the meaning of life but in VR]]
+- [[Let's make a game about polyamory]]
+- [[Let's Make a VR markdown editor & word processor]]
+- [[Let's make juicy pong]]
+- [[Let's make a looking glass pixel chix game]]
+- [[Let's Make a game where you play as a large slow being]]
+- [[Let's Make a game with Bloberta]]
+- [[Let's make a game about phone addiction]]
+- [[Let's make a Solarpunk Tilt5 Game]]
+- [[Let's Make a Game about jealousy]]
+- [[Let's make a gardening game in a bathtub]]
+- [[Let's Make a Black Paint Video]]
+- [[Let's make pocinaudio dot com but for the games industry]]

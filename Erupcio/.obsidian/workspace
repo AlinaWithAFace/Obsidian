@@ -1,0 +1,76 @@
+{
+  "main": {
+    "id": "6c779a78cd541e49",
+    "type": "split",
+    "children": [
+      {
+        "id": "87fbad224f4f5e75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Emotions that arise when playing erupcio.md",
+            "mode": "source"
+          }
+        }
+      },
+        "id": "85895b27e6ee857e",
+          "type": "empty",
+          "state": {}
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f7e5d6e6a25d8b7",
+        "id": "5c206293284c90a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f495261e53f101",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+            "id": "71454a24ccd4b89b",
+              "type": "search",
+              "state": {
+                "query": "emotion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+        ]
+    "direction": "horizontal",
+    "width": 390.0036334991455
+  "right": {
+    "id": "227fb24ed2ea620c",
+        "id": "b40e57ed0c059738",
+            "id": "d2fee61eac41e0fd",
+              "type": "backlink",
+                "file": "Emotions that arise when playing erupcio.md",
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+    "width": 300,
+    "collapsed": true
+  "active": "87fbad224f4f5e75",
+  "lastOpenFiles": [
+    "Emotions that arise when playing erupcio.md",
+    "Caption.md",
+    "Credits.md",
+    "Erupció.md",
+    "Backstory Extended.md",
+    "Background Summary.md",
+    "Protect your own artifact.md",
+    "_Scratch/Erupció Scratch.md",
+    "Player.md",
+    "How to play the game.md"
+  ]
+}

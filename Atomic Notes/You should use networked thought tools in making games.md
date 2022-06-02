@@ -1,0 +1,1 @@
+[[Digital Gardening, Networked Thought, Game Design]] QED, take my course [[Obsidian for Game Designers]] if you want but no pressure

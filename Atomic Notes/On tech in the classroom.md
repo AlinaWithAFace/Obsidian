@@ -1,0 +1,3 @@
+I’m always really conflicted about tech in class, because on the one hand it’s _so useful_ for just typing and notes and so much more, but it’s also so distracting, like you could have your laptop out and play Tetris for all I know. Or you could be keeping really careful and eloquent notes, I have no way of being quite able to tell.
+
+So uh, maybe let’s talk about it! Do you want to use tech in class? Why? Why not?

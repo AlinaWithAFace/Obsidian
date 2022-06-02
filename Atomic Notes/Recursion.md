@@ -1,0 +1,3 @@
+Related
+---
+- [[Design Pattern]]

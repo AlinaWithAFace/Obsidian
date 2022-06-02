@@ -1,0 +1,1 @@
+Your content is valuable. You spend a lot of time cultivating it, building upon it. Keeping it trapped in systems that do not allow it to roam free is one of the first mistakes you can make. This kind of thing is why microsoft word is the devil and why I'm such a hoe for markdown.

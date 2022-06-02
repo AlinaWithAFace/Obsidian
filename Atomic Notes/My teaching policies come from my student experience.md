@@ -1,0 +1,3 @@
+Going through school, I kept a mental log, if all the random shit that teachers did that I did/didn’t like. Stuff like oh, you’re really slow about responding to emails, or oh, you don’t give good feedback. It almost turned into a mental burn book, listing out behaviors in teachers I thought were atrocious.
+
+A lot of these ideas, these “policies” I guess if you want to call them that, are based on my experience as a student. I noted all of the random things I wanted to be different in my learning experience going through school, and that accumulation has resulted in this. You’re obviously much closer to being someone actively in school, so your feedback on how I can make this easier for all of us would be great.

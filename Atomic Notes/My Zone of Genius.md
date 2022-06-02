@@ -1,0 +1,3 @@
+I've tried to cultivate a really unique blend of skills, primarily surrounding games and game development. I think that I'm pretty good at communication, both written & verbal, I'm the world's okayest programmer, and I feel like I have a somewhat refined eye for design generally.
+
+Honestly, I'm probably not the best person to ask about my skills. In a way, I'm too close to it all to give an objective opinion about it, but I'd be happy to forward you on to other people who have nice things to say about me.

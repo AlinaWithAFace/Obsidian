@@ -1,0 +1,1 @@
+There are a few tools in this space, the big boys are roam, obsidian, and notion. Maybe evernote if you're feeling cheeky.

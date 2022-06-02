@@ -1,0 +1,1 @@
+Effort. Resources. Energy. 

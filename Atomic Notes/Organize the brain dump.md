@@ -1,0 +1,1 @@
+This is where things get trickier. Take a look at the mass of ideas you've created around the prompt, and start arranging them somehow. This can again be in text files or visually, but something that best helps you group them in order to start distilling out what the thing you're actually trying to build even is.

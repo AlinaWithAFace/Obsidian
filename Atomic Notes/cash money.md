@@ -1,0 +1,1 @@
+Means "a good thing". Slang. See [Cash Money, Urban Dictionary](https://www.urbandictionary.com/define.php?term=Cash-Money).

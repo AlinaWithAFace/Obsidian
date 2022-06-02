@@ -1,0 +1,3 @@
+It can be helpful to frame feedback and disagreements as curiosity-based questions. [[The Socratic Method]] Stating things declaratively or as objective can feel like an attack on people. [[The Backfire Effect]]
+
+It can also gloss over work that's someone's already done in the area. They might have a reason for making a specific decision already, and perhaps you're missing the context because [[No one can read minds]].

@@ -1,0 +1,1 @@
+Being alive in [[The Game of Life]] should be optional. Players should be able to opt out at their own discretion, and as a society we should work towards providing resources to helping them quit the game if they really want to.

@@ -1,0 +1,6 @@
+Observed.
+
+[[Design]]ed.
+
+[[Calculatable]]
+

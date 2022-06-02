@@ -1,0 +1,11 @@
+The game I most heavily played growing up with social aspects was Mabinogi, an MMORPG by Nexon. I played it almost religiously from around ages ~11-16 or so. It did a lot of things really well in terms of personal expression social features, I certainly wouldn't have played it nearly as long if I hadn't made friends over it, and turned it into one of my first real social networks outside of reality.
+
+The guild system was one of the foundational pieces that kept groups of friends together in my experience. Some players made guilds, other players could join them, they had a guild-only chat, it was lovely. During my stay, I hopped across a handful of guilds as friends and friendgroups came and went. 
+
+One of the things they did quite well in player onboarding, was the first mission of the first generation of story quests to complete required you to rope in 2 other players. In order to progress really early on, you kind of had to figure out how to make a party of friends or strangers to complete it with. It softly encouraged you to get outside of your antisocial bubble as a new player, and start interacting with the other people in the game.
+
+The game I most heavily played growing up with social aspects was Mabinogi, an MMORPG by Nexon. I played it almost religiously from around ages ~11-16 or so. It did a lot of things really well in terms of personal expression social features, I certainly wouldn't have played it nearly as long if I hadn't made friends over it, and turned it into one of my first real social networks outside of reality.
+
+The guild system was one of the foundational pieces that kept groups of friends together in my experience. Some players made guilds, other players could join them, they had a guild-only chat, it was lovely. During my stay, I hopped across a handful of guilds as friends and friendgroups came and went. 
+
+One of the things they did quite well in player onboarding, was the first mission of the first generation of story quests to complete required you to rope in 2 other players. In order to progress really early on, you kind of had to figure out how to make a party of friends or strangers to complete it with. It softly encouraged you to get outside of your antisocial bubble as a new player, and start interacting with the other people in the game.

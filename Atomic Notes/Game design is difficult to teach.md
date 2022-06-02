@@ -1,0 +1,6 @@
+- [[Game design has a knowledge accretion problem]]
+- [[Game design is knowledge work]]
+- [[Game design is difficult to explain because not many people are exposed to the idea of knowledge work]]
+- [[Game design is its own skill set]]
+- [[Game design is difficult to explain because not many people are exposed to the idea of knowledge work]]
+- [[Idea Guys actually want to be Game Designers]]

@@ -1,0 +1,8 @@
+This book, while imperfect, gave me a lot of confidence in how I previously have and plan to continue approaching my career. I'm the type of person who's pretty much always known what I've wanted to do: direct video games. Diversions from that throughout my life have generally been running away from it in fear. Many moments have been a desperate pursuit in any way I could conjure in an isolated environment. Shifts over time have strengthened and focused this further, but the root thread has been there for my entire life. 
+
+In my senior year of undergrad, I was really scared of perusing this goal despite how far I'd come even to that point. So much so that I only applied to no more than 5 tech companies and my alma mater for grad school. Even throughout grad school I felt constantly wracked with indecision and fear, knowing I was avoiding what I actually wanted but feeling too incompetent and afraid of failure to properly chase it. 
+I found this book maybe a year and a half into my master's program, and while some of the hemming and hawing about the invisible hand of market forces felt like a bit much, (capitalism good, capitalism bad, we get it) the core thesis really resonated with me. I felt like I'd been pursuing knowledge, skill, and mastery wherever and whenever I could in ways relevant to my field, and the reframing of skill creating security even in nominally insecure fields felt like a huge relief and confidence boost. It felt like I’d actually been “doing it right” the whole time, like nothing had been a waste of time or energy.
+
+Resources
+---
+- [So Good They Can't Ignore You | Cal Newport | Talks at Google](https://www.youtube.com/watch?v=qwOdU02SE0w)

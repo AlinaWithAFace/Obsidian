@@ -1,0 +1,21 @@
+- fruit chips
+- Apple
+- Banana
+- Pear
+- dark chocolate
+- Caramel popcorn
+- Candy
+- Nuts
+- Fruit
+- Chips
+- Coffee
+- Tea
+- Drink fixins
+- Cherries
+- Cheese
+- Crackers
+- Deli meat
+- Dog snacks
+- Ice bucket
+- Mugs
+- Drink vessels

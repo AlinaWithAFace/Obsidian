@@ -1,0 +1,1 @@
+[[Fun]] is [[The Meaning of Life™]]

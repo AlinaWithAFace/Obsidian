@@ -1,0 +1,2 @@
+[[State]] of [[Being]].
+[[Observable]].

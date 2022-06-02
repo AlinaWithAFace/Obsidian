@@ -1,0 +1,1 @@
+What if we looked at life as if it were a game? What if we approached it as game designers, with the goal of creating gamey systems that make peoples lives easier, more educational, and more fun?

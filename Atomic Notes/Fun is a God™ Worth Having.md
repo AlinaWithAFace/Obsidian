@@ -1,0 +1,1 @@
+[[Fun]] [[is]] a [[God™]] [[Worth]] [[Having]]

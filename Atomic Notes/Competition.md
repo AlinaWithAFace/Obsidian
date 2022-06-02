@@ -1,0 +1,1 @@
+Taken too far, trends to [[The Painful Way™]].

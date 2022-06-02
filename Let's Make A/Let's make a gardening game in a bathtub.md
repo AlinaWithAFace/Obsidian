@@ -1,0 +1,3 @@
+- a gardening game that takes place exclusively in a bathtub.
+- you just, plant flowers, in a full bathtub, for instagram or something
+- you can grow them and arrange them and thats the whole game

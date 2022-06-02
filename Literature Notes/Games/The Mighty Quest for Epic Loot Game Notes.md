@@ -1,0 +1,1 @@
+- https://www.themightyquest.com/en

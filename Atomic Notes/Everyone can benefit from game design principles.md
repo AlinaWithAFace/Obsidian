@@ -1,0 +1,1 @@
+Everyone should study game design, at least a little. See [[Game Design Fundamentals]].

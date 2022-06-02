@@ -1,0 +1,1 @@
+[[Being]] [[State]] [[Curiosity]]

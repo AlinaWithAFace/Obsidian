@@ -1,0 +1,1 @@
+Democracy is a relatively new approach to public policy.

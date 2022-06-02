@@ -1,0 +1,3 @@
+Related
+---
+- [The Art of Asking by Amanda Palmer](https://www.amazon.com/Art-Asking-Learned-Worrying-People/dp/1455581097). By the title alone, I really wanted this book to be more of an academic read, going into techniques about how to ask things and phrase them in ways that are useful. I didn't really get that from this book, it's kind of closer to a snippet of the author's autobiography in a lot of ways, but I do think there is still some wisdom to be had within it that we can pull out of her story.

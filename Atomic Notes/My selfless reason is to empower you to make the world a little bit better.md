@@ -1,0 +1,5 @@
+I think that games, and art in general really, can change the world. Compared to the entirety of human history, video games are super young!! We’ve had cave paintings for thousands of years, maybe even hundreds of thousands, but the first video games only cropped up around, what, the 50s? 
+
+This entire medium we find ourselves in is less than a century old. There are a lot of fantastic possibilities for things that we, that you, could build.
+
+I don’t know everything about this field, I don’t know everything there is to know about games. That’s kind of a physically impossible task for any one being, sorry. But I do know just a liiiiittle bit more than you, and was quite literally in your seat no less than a year ago. If I can give you at least the beginnings of the steps to get from where you are to where I am, boy howdy kids we did it!

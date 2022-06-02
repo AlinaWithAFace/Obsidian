@@ -1,0 +1,11 @@
+[[The Breakdown]]
+---
+- [[Identify]]ing as [[Hedonistic]] [[Create]]s [[Morality]].
+- [[Intention]] [[Create]]s [[Design]]
+- [[Hedonism]] is [[Logic, Philosophy of Systems]] [[About]] the [[Intrinsically Rewarding]].
+- [[Min-max]]ing [[Fun]] is [[Intrinsically Rewarding]].
+- [[Individual]]s [[Thrive]] on [[The Intrinsicly Rewarding]].
+- [[Society]] [[Thrive]]s on [[The Intrinsicly Rewarding]].
+- [[Fun is Desirable]].
+- [[Fun is Emergent]].
+- [[Society Thrives on Fun]].

@@ -1,0 +1,1 @@
+[The Magician, Tarot, Wikipedia](https://en.wikipedia.org/wiki/The_Magician_(Tarot_card)).

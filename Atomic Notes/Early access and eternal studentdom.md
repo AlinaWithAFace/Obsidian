@@ -1,0 +1,1 @@
+Early access and evolving games are a form of being an eternal student, but at the scale of an entire game studio. It's kind of wild that we're able to do this at all!

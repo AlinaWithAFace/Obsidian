@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "livePreview": false,
+  "fileSortOrder": "byModifiedTime",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Atomic Notes",
+  "attachmentFolderPath": "Assets",
+  "newLinkFormat": "shortest"
+}

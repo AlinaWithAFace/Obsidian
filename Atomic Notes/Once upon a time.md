@@ -1,0 +1,1 @@
+A [[Story]] [[Design Pattern]] that [[Call]]s when a [[Story]] is to begin.

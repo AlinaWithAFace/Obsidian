@@ -1,0 +1,1 @@
+[[Teaching]] is a [[Forcing Function]] for [[Learning]].

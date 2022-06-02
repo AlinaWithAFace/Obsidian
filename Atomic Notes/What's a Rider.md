@@ -1,0 +1,1 @@
+[Jetbrains Rider](https://www.jetbrains.com/rider/)

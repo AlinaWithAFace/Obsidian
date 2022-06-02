@@ -1,0 +1,3 @@
+`n` currency, such that for any given being `b`, you can tell them, to their face, "fuck you", and walk away financially secure.
+
+Fuck you money is being able to quit your job and not have to worry about where you're gonna live or how you're gonna pay rent next month. Fuck you money is freedom. Money beyond `n` is increasingly worthless in any single person's hands, and must be distributed in an effective society.

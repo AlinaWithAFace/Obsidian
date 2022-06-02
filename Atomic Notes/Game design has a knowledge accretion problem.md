@@ -1,0 +1,3 @@
+Many games don’t present anything new to the medium, there are a lot of safe bets based on things that have already been proven to work. People who work in the industry for more than, say, ~5 years are considered to be senior, and a lot of people leave after, say, ~7 years. The games industry has a problem with cultivating and accruing knowledge, in part because of these short tenures and perceived economic forces.
+
+Personally, I'm interested in how [[Digital gardening]] will affect my personal knowledge accretion in making games. Maybe by [[Learning in public]] I'll help other people working in this area accure knowledge too, and start creating the space for more in-depth discussions and designs.

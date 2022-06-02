@@ -1,0 +1,45 @@
+- [[Games]]
+- https://www.smogon.com/forums/threads/breeding-perfect-pokemon-in-pokemon-x-y.3491104/Breeding Perfect Pokemon in Pokemon X&Y | Smogon Forums
+- http://roundcube3.blogspot.com.au/2012/11/save-file-hacking-mlp-for-idevices.htmlCore Dump: Save File Hacking MLP For iDevices
+- http://m.coolrom.com/emulators/ios_nojb/
+- http://www.marriland.com/black_white/3906-how-to-ev-trainHow to EV Train - Black White - Marriland
+- http://pokemonmap.com/Pokemon X and Y Kalos Region Map
+- http://destinyknot.tk/Pokemon X/Y - IV Breeding Probability Calculator
+- http://www.pokeffectiveness.com/Pokéffectiveness
+- http://pokemonshowdown.com/Pokémon Showdown! battle simulator
+- http://m.coolrom.com/romsROMs Section - CoolROM.com
+- http://play.pokemonshowdown.com/Showdown!
+- http://store.heaveniphone.com/home.htmlStore Heaven iPhone For Everyone
+- http://www.marriland.com/forums/pokemon-6th-generation/pokemon-x-y/xy-user-guides/450081-wigglers-guide-to-easy-fast-ev-training-in-pokemon
+- http://www.wondertradeanalytics.com/helpWonder Trade Analytics
+- ![](http://i.imgur.com/YpJWUB4.png)
+
+
+- [[Games]]
+- https://www.smogon.com/forums/threads/breeding-perfect-pokemon-in-pokemon-x-y.3491104/Breeding Perfect Pokemon in Pokemon X&Y \| Smogon Forums
+- http://roundcube3.blogspot.com.au/2012/11/save-file-hacking-mlp-for-idevices.htmlCore Dump: Save File Hacking MLP For iDevices
+- http://m.coolrom.com/emulators/ios\_nojb/
+- http://www.marriland.com/black\_white/3906-how-to-ev-trainHow to EV Train - Black White - Marriland
+- http://pokemonmap.com/Pokemon X and Y Kalos Region Map
+- http://destinyknot.tk/Pokemon X/Y - IV Breeding Probability Calculator
+- http://www.pokeffectiveness.com/Pokéffectiveness
+- http://pokemonshowdown.com/Pokémon Showdown! battle simulator
+- http://m.coolrom.com/romsROMs Section - CoolROM.com
+- http://play.pokemonshowdown.com/Showdown!
+- http://store.heaveniphone.com/home.htmlStore Heaven iPhone For Everyone
+- http://www.marriland.com/forums/pokemon-6th-generation/pokemon-x-y/xy-user-guides/450081-wigglers-guide-to-easy-fast-ev-training-in-pokemon
+- http://www.wondertradeanalytics.com/helpWonder Trade Analytics
+- ![](http://i.imgur.com/YpJWUB4.png)
+
+
+- http://www.reddit.com/r/pokemon/comments/1op4vo/female_hairstyle_guide_super_detailed/
+- http://www.pokemonreborn.com/index.php?
+- http://m.imgur.com/a/N85RE
+- http://www.pokechecklist.com/
+- http://www.serebii.net/xy/friendsafari.shtml
+- http://www.serebii.net/index2.shtml
+- http://www.reddit.com/r/SVExchange/search?q=flair%3Agiveaway+selftext%3A1396&sort=new&restrict_sr=on&t=month
+- http://www.reddit.com/r/pokemon/comments/1rl00q/useful_pokemon_out_of_battle/
+- http://www.reddit.com/r/pokemon/comments/1oq3rg/was_getting_frustrated_finding_an_easytoread_type/
+- http://veekun.com/
+- http://www.wondertradeanalytics.com/

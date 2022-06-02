@@ -1,0 +1,13 @@
+- # Social
+- *Social**
+- *Well, It Is A Folder...**
+- {% embed url="http://www.reddit.com/user/jettj12" caption="overview for jettj12" %}
+- {% embed url="http://en.gravatar.com/dumdadido" caption="Dumdadido, United States - Gravatar Profile" %}
+- {% embed url="http://www.meetup.com/find/" caption="Find Meetup groups near you - Meetup" %}
+- {% embed url="http://en.gravatar.com/" caption="Gravatar - Globally Recognized Avatars" %}
+- {% embed url="http://groupspaces.com/Pen-Del-marbronymeetup/" caption="Pen-Del-mar brony meetup! : GroupSpaces" %}
+- {% embed url="http://www.soocial.com/contacts" caption="Soocial Address Book" %}
+- {% embed url="https://web.telegram.org/[[/im]]" caption="Telegram Web" %}
+- {% embed url="https://twitter.com/" caption="Twitter / Home" %}
+- {% embed url="http://www.meetup.com/" caption="Your Home - Meetup" %}
+- {% embed url="https://reddmeet.com/results/" caption="all the redditors" %}

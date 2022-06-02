@@ -1,0 +1,1 @@
+[[Observed]] [[Component, Property]]

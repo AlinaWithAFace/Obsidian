@@ -1,0 +1,9 @@
+Games as a medium have developed a lot of internal techniques to teach people about them. These are conventions around controls, these are design patterns, they're the scattered collections of ideas that the medium has been building up over time as the collective industry creates and analyzes itself.
+
+These are your "press spacebar to jump", your "press WASD to move", your "look around with a mouse", your "use the right stick to move your character and your left stick to move the camera". Games that innovate on basic mechanics tend to be the ones that we remember well as having done something for the first time within their field. It's why we look back at things like the orignal Halo or Half Life 1 or even the original Mario Bros with such admiration.
+
+People who don't often play games, non-Gamers™, do not always have a deep understanding of these mechanics. Not everyone automatically knows "how to read" when it comes to video games. This is why careful tutorial creation is really important. You want to strike a balance between not over-explaining to people who know many game conventions by allowing them to skip through what they already know, while also catering to people who *don't* already have that knowledge so they can actually understand how to play your game.
+
+This isn't just an accessibility thing either. Taking the time to really think about how you want to introduce mechanics can help you can create the space to innovate on interesting mechanisms and have them be understood and well recieved. If you can master explaining your unique additions to the medium, you're pushing the boundary of what games can truly be. You're pushing the boundaries of the art form as a whole!!
+
+This is wild and beautiful!! Please keep going!! I am literally begging you to continue!!

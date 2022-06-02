@@ -1,0 +1,3 @@
+When you make a game, it’s not automatically fun. Disappointing, I know. You can’t necessarily just waltz into a game engine, slap some shit together, and have it 100% of the time be an enjoyable, engaging experience (if you can, call me and tell me your secrets).
+
+Finding the fun is about taking your [[Game Design]] / game idea, building it out, and seeing what’s actually fun and engaging to do. What are the most interesting and engaging parts of your game? What parts of your game do players love? Is the [[Player Experience]] you’re building the one you intended? (See [[Use questions in game design]])
